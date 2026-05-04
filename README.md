@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahsan262
-- 👀 I’m interested in android development in kotlin/java . I have 5+ years of experience in android app development.
+- 👀 I’m interested in android development in kotlin/java . I have 7+ years of experience in android app development.
 - 🌱 I’m currently working on android app development in kotlin
 - 💞️ I’m looking to collaborate on projects in kotlin to expand my knowledge 
 - 📫 You can reach me at mahsan466@gmail.com
